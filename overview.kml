@@ -259,21 +259,21 @@
 		</Pair>
 	</StyleMap>
 		<Placemark>
-			<name>Austin, TX</name>
+			<name>Lone Star Ruby Conference</name>
 			<visibility>0</visibility>
 			<address>Austin, TX</address>
 			<LookAt>
-				<longitude>-97.745209</longitude>
-				<latitude>30.268735</latitude>
+				<longitude>-97.73416666666668</longitude>
+				<latitude>30.35513888888889</latitude>
 				<altitude>0</altitude>
-				<range>42283.578125</range>
+				<range>1000</range>
 				<tilt>0</tilt>
 				<heading>0</heading>
 			</LookAt>
 			<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon60.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon52.png0</styleUrl>
-			<Point>
-				<coordinates>-97.745209,30.268735,0</coordinates>
-			</Point>
+  		<Point>
+  			<coordinates>-97.73416666666668,30.35513888888889,0</coordinates>
+  		</Point>
 		</Placemark>
 		<Placemark>
 			<name>Africa</name>
