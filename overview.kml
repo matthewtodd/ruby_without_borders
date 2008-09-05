@@ -258,10 +258,6 @@
 			<styleUrl>#sh_icon52</styleUrl>
 		</Pair>
 	</StyleMap>
-	<Folder>
-		<name>Ruby without Borders</name>
-		<visibility>0</visibility>
-		<open>1</open>
 		<Placemark>
 			<name>Austin, TX</name>
 			<visibility>0</visibility>
@@ -400,6 +396,23 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>KCMC Hospital</name>
+			<visibility>0</visibility>
+			<LookAt>
+  			<longitude>37.32766754840042</longitude>
+  			<latitude>-3.319817943935491</latitude>
+				<altitude>0</altitude>
+				<range>1000</range>
+				<tilt>0</tilt>
+				<heading>0</heading>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon602</styleUrl>
+  		<Point>
+  			<coordinates>37.32766754840042,-3.31981794393549,0</coordinates>
+  		</Point>
+		</Placemark>
+		<Placemark>
 			<name>Amani Children&apos;s Home</name>
 			<visibility>0</visibility>
 			<LookAt>
@@ -416,6 +429,5 @@
 				<coordinates>37.31102407884568,-3.352716823563794,0</coordinates>
 			</Point>
 		</Placemark>
-	</Folder>
 </Document>
 </kml>
