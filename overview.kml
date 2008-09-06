@@ -260,7 +260,7 @@
 	</StyleMap>
 		<Placemark>
 			<name>Lone Star Ruby Conference</name>
-			<visibility>0</visibility>
+			<visibility>1</visibility>
 			<address>Austin, TX</address>
 			<LookAt>
 				<longitude>-97.73416666666668</longitude>
