@@ -1,6 +1,8 @@
-FWIW, This Seems Different from How We Think
+Sidenote, This Seems Different from How We Usually Think
 
-. Summer internships        . Studying abroad
-. Dorm-room startups        . Volunteering
-. Reading the ... manual    . Guiding someone along
-. Working for money         . Working for not money
+. Summer internships      . Studying abroad
+. Dorm-room startups      . Volunteering
+. Figuring things out     . Helping someone learn
+. Being remarkable        . Working in obscurity
+
+(There may or may not be something to notice here.)
