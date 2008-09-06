@@ -14,13 +14,16 @@ remember to look up mercury info
 00 ... Think of these slides as the old Napkin look & feel for Swing, intended to convey work in progress.
 
 01 ... It's a wonderful story that involves a girl.
-   ... 
 
-02 ... Pair programming
+02 ... I'd like to show you some code early.
+   ... This is an executable slide.
+   ... Zanzibar: white sand beaches, birthplace of Freddie Mercury
+
+03 ... Pair programming
    ... Story about unit_record
    ... Story about skinny controller, fat model
    
-03 ... My wife doesn't think XML jokes are funny.
+04 ... My wife doesn't think XML jokes are funny.
 
 
 Which isn't to say the things on the right aren't important, just that we value the things on the left more.
