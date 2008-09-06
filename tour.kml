@@ -1,433 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
-<Document>
-	<name>overview.kml</name>
-	<Style id="sh_icon52">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sn_palette-35">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_icon60">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sn_icon600">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon60.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon52.png">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon60.png0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon52.png0</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_palette-33">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_palette-35</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_palette-33</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon60.png">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon52.png">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_icon520">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-	</Style>
-	<StyleMap id="msn_icon60">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_icon60</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_icon520</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon60.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon52.png0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon60.png</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#default+icon=http://maps.google.com/mapfiles/kml/pal3/icon52.png</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon60.png0">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="sh_palette-33">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sn_palette-31">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_icon600">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_icon600</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_icon521</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_icon601">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
-			</Icon>
-		</IconStyle>
-		<ListStyle>
-		</ListStyle>
-	</Style>
-	<Style id="sh_icon521">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sn_icon602">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<StyleMap id="msn_icon601">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_icon603</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_icon522</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sn_icon603">
-		<IconStyle>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon60.png</href>
-			</Icon>
-		</IconStyle>
-	</Style>
-	<Style id="default+icon=http://maps.google.com/mapfiles/kml/pal3/icon52.png0">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_icon522">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-	</Style>
-	<StyleMap id="msn_palette-31">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_palette-31</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_palette-32</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="sh_palette-32">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-	</Style>
-	<Style id="sh_icon523">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pal3/icon52.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-			<scale>1.1</scale>
-		</LabelStyle>
-	</Style>
-	<StyleMap id="msn_icon602">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_icon602</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_icon523</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_icon603">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_icon601</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_icon52</styleUrl>
-		</Pair>
-	</StyleMap>
-		<Placemark>
-			<name>Lone Star Ruby Conference</name>
-			<visibility>1</visibility>
-			<address>Austin, TX</address>
-			<LookAt>
-				<longitude>-97.73416666666668</longitude>
-				<latitude>30.35513888888889</latitude>
-				<altitude>0</altitude>
-				<range>1000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon60.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon52.png0</styleUrl>
-  		<Point>
-  			<coordinates>-97.73416666666668,30.35513888888889,0</coordinates>
-  		</Point>
-		</Placemark>
-		<Placemark>
-			<name>Africa</name>
-			<visibility>0</visibility>
-			<address>Africa</address>
-			<LookAt>
-				<longitude>16.98485</longitude>
-				<latitude>0.213671</latitude>
-				<altitude>0</altitude>
-				<range>8097048.5</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#default+nicon=http://maps.google.com/mapfiles/kml/pal3/icon60.png+hicon=http://maps.google.com/mapfiles/kml/pal3/icon52.png</styleUrl>
-			<Point>
-				<coordinates>16.98485,0.213671,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Tanzania</name>
-			<visibility>0</visibility>
-			<address>Tanzania</address>
-			<LookAt>
-				<longitude>34.888822</longitude>
-				<latitude>-6.369028</latitude>
-				<altitude>0</altitude>
-				<range>2000000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_palette-33</styleUrl>
-			<Point>
-				<coordinates>34.888822,-6.369028,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Zanzibar, Tanzania</name>
-			<visibility>0</visibility>
-			<address>Zanzibar, Tanzania</address>
-			<description>
-</description>
-			<LookAt>
-				<longitude>39.3822</longitude>
-				<latitude>-6.097406</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_icon603</styleUrl>
-			<Point>
-				<coordinates>39.3822,-6.097406,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Serengeti</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>34.56728</longitude>
-				<latitude>-2.334978</latitude>
-				<altitude>0</altitude>
-				<range>500000</range>
-				<tilt>0</tilt>
-				<heading>-5.764755360152625e-15</heading>
-			</LookAt>
-			<styleUrl>#msn_icon601</styleUrl>
-			<Point>
-				<coordinates>34.56728,-2.334978,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Mount Kilimanjaro</name>
-			<visibility>0</visibility>
-			<address>Mount Kilimanjaro</address>
-			<LookAt>
-				<longitude>37.359076</longitude>
-				<latitude>-3.065274</latitude>
-				<altitude>0</altitude>
-				<range>100000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_icon600</styleUrl>
-			<Point>
-				<coordinates>37.359076,-3.065274,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Moshi, Tanzania</name>
-			<visibility>0</visibility>
-			<address>Moshi, Tanzania</address>
-			<LookAt>
-				<longitude>37.3473</longitude>
-				<latitude>-3.3346</latitude>
-				<altitude>0</altitude>
-				<range>40000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-			</LookAt>
-			<styleUrl>#msn_palette-31</styleUrl>
-			<Point>
-				<coordinates>37.3473,-3.3346,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>My House</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>37.34230305957587</longitude>
-				<latitude>-3.336384455471211</latitude>
-				<altitude>0</altitude>
-				<range>500</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_icon60</styleUrl>
-			<Point>
-				<coordinates>37.34225808125825,-3.336103264292809,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>KCMC Hospital</name>
-			<visibility>0</visibility>
-			<LookAt>
-  			<longitude>37.32766754840042</longitude>
-  			<latitude>-3.319817943935491</latitude>
-				<altitude>0</altitude>
-				<range>1000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_icon602</styleUrl>
-  		<Point>
-  			<coordinates>37.32766754840042,-3.31981794393549,0</coordinates>
-  		</Point>
-		</Placemark>
-		<Placemark>
-			<name>Amani Children&apos;s Home</name>
-			<visibility>0</visibility>
-			<LookAt>
-				<longitude>37.31092055375038</longitude>
-				<latitude>-3.352386466056478</latitude>
-				<altitude>0</altitude>
-				<range>1000</range>
-				<tilt>0</tilt>
-				<heading>0</heading>
-				<altitudeMode>relativeToGround</altitudeMode>
-			</LookAt>
-			<styleUrl>#msn_icon602</styleUrl>
-			<Point>
-				<coordinates>37.31102407884568,-3.352716823563794,0</coordinates>
-			</Point>
-		</Placemark>
-</Document>
+  <Document>
+    <name>Overview</name>
+    
+    <Placemark>
+      <name>Lone Star Ruby Conference 2008</name>
+      <visibility>1</visibility>
+      <LookAt>
+        <longitude>-97.73416666666668</longitude>
+        <latitude>30.35513888888889</latitude>
+        <altitude>0</altitude>
+        <range>1000</range>
+        <tilt>0</tilt>
+        <heading>0</heading>
+      </LookAt>
+      <Point>
+        <coordinates>-97.73416666666668,30.35513888888889,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Tanzania</name>
+      <visibility>0</visibility>
+      <LookAt>
+        <longitude>34.888822</longitude>
+        <latitude>-6.369028</latitude>
+        <altitude>0</altitude>
+        <range>2000000</range>
+        <tilt>0</tilt>
+        <heading>0</heading>
+      </LookAt>
+      <Point>
+        <coordinates>34.888822,-6.369028,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Zanzibar</name>
+      <visibility>0</visibility>
+      <LookAt>
+        <longitude>39.3822</longitude>
+        <latitude>-6.097406</latitude>
+        <altitude>0</altitude>
+        <range>500000</range>
+        <tilt>0</tilt>
+        <heading>0</heading>
+      </LookAt>
+      <Point>
+        <coordinates>39.3822,-6.097406,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>The Serengeti</name>
+      <visibility>0</visibility>
+      <LookAt>
+        <longitude>34.56728</longitude>
+        <latitude>-2.334978</latitude>
+        <altitude>0</altitude>
+        <range>500000</range>
+        <tilt>0</tilt>
+        <heading>-5.764755360152625e-15</heading>
+      </LookAt>
+      <Point>
+        <coordinates>34.56728,-2.334978,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Mount Kilimanjaro</name>
+      <visibility>0</visibility>
+      <LookAt>
+        <longitude>37.359076</longitude>
+        <latitude>-3.065274</latitude>
+        <altitude>0</altitude>
+        <range>100000</range>
+        <tilt>0</tilt>
+        <heading>0</heading>
+      </LookAt>
+      <Point>
+        <coordinates>37.359076,-3.065274,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>This Is Where I Live</name>
+      <visibility>0</visibility>
+      <LookAt>
+        <longitude>37.34230305957587</longitude>
+        <latitude>-3.336384455471211</latitude>
+        <altitude>0</altitude>
+        <range>200</range>
+        <tilt>0</tilt>
+        <heading>0</heading>
+      </LookAt>
+      <Point>
+        <coordinates>37.34225808125825,-3.336103264292809,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
 </kml>
