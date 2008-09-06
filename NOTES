@@ -1,14 +1,18 @@
-00 ... Think of these slides as the old Napkin look & feel for Swing, intended to convey work in progress.
+00 ... I've got an idea to run by you that may be a bit odd
+   ... Think of these slides as the old Napkin look & feel for Swing, intended to convey work in progress.
    ... I'm also keeping all my knowledge in plain text.
 
 01 ... It's a wonderful story that involves a girl.
 
 02 ... I'd like to show you some code early.
-   ... This is an executable slide.
+   ... One benefit of using plain text is that this slide is executable.
+   ... <>
    ... Zanzibar: white sand beaches, birthplace of Freddie Mercury, would have turned 62 yesterday
+   ... It's taken some getting used to
 
-03 ... Local non-profits: children's home, porter's assistance, also hospital
+03 ... Local non-profits: http://amanikids.org, http://kiliporters.org, also http://www.kcmc.ac.tz
    ... Mentoring: people learn how to learn very differently, internet not so available
+   ... It's a nice counter example, a time when it's probably much better to be local
    ... Pair programming works very, very well for teaching
    ... Story about skinny controller, fat model
    
