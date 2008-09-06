@@ -1,1 +1,3 @@
+An Alternate URI, as of November 2006
+
 http://workingwithrails.com/browse/people/country/Tanzania
